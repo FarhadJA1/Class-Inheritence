@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\bin\Debug\netcoreapp3.1\N Factorial.exe
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\bin\Debug\netcoreapp3.1\N Factorial.deps.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\bin\Debug\netcoreapp3.1\N Factorial.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\bin\Debug\netcoreapp3.1\N Factorial.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\bin\Debug\netcoreapp3.1\N Factorial.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\bin\Debug\netcoreapp3.1\N Factorial.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Class, Inheritence\N Factorial\N Factorial\obj\Debug\netcoreapp3.1\N Factorial.genruntimeconfig.cache
